@@ -1,4 +1,4 @@
-#SuperComputerCalc
+# SuperComputerCalc
 
 This is a simple program that I built in my C-Programming course that utilizes if-else statements and do-while loops.
 It is a make believe program that allows for users to use a supercomputer at any company that has this supercomputer.
