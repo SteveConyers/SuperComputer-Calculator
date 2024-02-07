@@ -1,6 +1,6 @@
-/* Usagev4.c Steven Conyers
+/* SuperComputerCalc.c Steven Conyers
    Created: 2/22/2021
-   Updated: 2/5/2024 */
+   Updated: 2/7/2024 */
 	
 #include <stdio.h>
 int main(void)
