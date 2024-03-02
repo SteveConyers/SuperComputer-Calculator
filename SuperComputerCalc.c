@@ -1,6 +1,6 @@
 /* SuperComputerCalc.c Steven Conyers
    Created: 2/22/2021
-   Updated: 2/7/2024 */
+   Updated: 3/2/2024 */
 	
 #include <stdio.h>
 int main(void)
