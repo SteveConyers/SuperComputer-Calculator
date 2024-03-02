@@ -10,13 +10,13 @@ int main(void)
 /* Declarations */
 	int hoursUsed = 0, minutesUsed = 0, secondsUsed = 0, totalSecondsUsed = 0, users = 0, totalUsage = 0, superUsers = 0;
 	
-	float totalHours 	= 0.0f;
-	float totalDays 	= 0.0f;
+	float totalHours    = 0.0f;
+	float totalDays     = 0.0f;
 	float ratePerSecond = 0.0f;
-	float usageCharge 	= 0.0f;
-	float grandTotal	= 0.0f;
+	float usageCharge   = 0.0f;
+	float grandTotal    = 0.0f;
 	
-	char  choice		= 'y';
+	char  choice	    = 'y';
 /*------------------------------------------------------------------------------------------------------------------------*/
 /* Heading */
 	printf("SuperComputer Usage Calculator by Steven Conyers Student\n\n");
@@ -126,5 +126,4 @@ if (choice != 'y' && choice != 'Y' && choice != 'n' && choice != 'N')
 	printf("Thanks for using the SuperComputer!");
 
 return 0;
-
 }
